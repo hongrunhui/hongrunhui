@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Use code learn code
 - ⚡ Fun fact: ...
 
-[![hongrunhui's github stats](https://github-readme-stats.vercel.app/api?username=hongrunhui&show_icons=true)](https://github.com/hongrunhui/github-readme-stats)
+[![hongrunhui's github stats](https://github-readme-stats.vercel.app/api?username=hongrunhui&show_icons=true)](https://github.com/hongrunhui/)
