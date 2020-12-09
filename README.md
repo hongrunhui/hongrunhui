@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/hongrunhui/hongrunhui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongrunhui&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 [![hongrunhui's github stats](https://github-readme-stats.vercel.app/api?username=hongrunhui&show_icons=true)](https://github.com/hongrunhui/)
